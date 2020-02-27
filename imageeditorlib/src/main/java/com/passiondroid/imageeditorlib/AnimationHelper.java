@@ -7,9 +7,6 @@ import android.view.animation.AnimationUtils;
 import androidx.annotation.AnimRes;
 
 
-/**
- * Created by droidNinja on 03/06/16.
- */
 public class AnimationHelper {
     public static void animate(Context context, View view, @AnimRes int anim, int visibility, Animation.AnimationListener animationListener)
     {
