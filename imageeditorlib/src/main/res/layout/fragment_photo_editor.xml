@@ -11,7 +11,7 @@
     tools:context=".ImageEditActivity"
     >
 
-  <com.droidninja.imageeditengine.views.imagezoom.ImageViewTouch
+  <com.passiondroid.imageeditorlib.views.imagezoom.ImageViewTouch
       android:id="@+id/image_iv"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
@@ -20,7 +20,7 @@
       android:scaleType="centerInside"
       />
 
-  <com.droidninja.imageeditengine.views.PhotoEditorView
+  <com.passiondroid.imageeditorlib.views.PhotoEditorView
       android:id="@+id/photo_editor_view"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
@@ -101,7 +101,7 @@
         android:src="@drawable/ic_cam_draw"
         />
 
-    <com.droidninja.imageeditengine.views.VerticalSlideColorPicker
+    <com.passiondroid.imageeditorlib.views.VerticalSlideColorPicker
         android:id="@+id/color_picker_view"
         android:layout_width="10dp"
         android:layout_height="180dp"
