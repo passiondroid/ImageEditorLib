@@ -2,6 +2,9 @@
 
 A minimal image editor library for Android. Similar to what WhatsApp offers for image editing.
 
+## Demo
+<img src="demo.gif" width="400" height="660">
+
 ## Installation
 
 Add it in your root build.gradle at the end of repositories:
