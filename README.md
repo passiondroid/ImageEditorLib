@@ -3,7 +3,7 @@
 A minimal image editor library for Android. Similar to what WhatsApp offers for image editing.
 
 ## Demo
-<img src="demo.gif" width="400" height="660">
+<img src="demo.gif" width="250">
 
 ## Installation
 
